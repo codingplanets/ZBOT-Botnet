@@ -44,4 +44,4 @@ zbot-setup.py | zbot.c | zbot-build | Unreal3.2.zip
 # 
 	!* killall  |  kill all packeting attacks
 # 
-	!* sh <command>   |  sends commands across all bots
+	!* sh <command>   |  sends command across all bots
