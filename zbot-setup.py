@@ -1,6 +1,8 @@
 #!/usr/bin/python
-# INSTALLER FOR ZBOT IRC
-
+# Thank you for using zbot/zeus botnet
+# ZBOT: https://github.com/codingplanets/ZBOT-Botnet
+# Usages: python zbot-setup.py
+#
 import subprocess, sys, os
 
 print "Installing modules"
